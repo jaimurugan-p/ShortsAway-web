@@ -66,5 +66,5 @@ If we update this Privacy Policy, the updated version will be posted at this URL
 ## 6. Contact Us
 
 If you have any questions or feedback regarding this Privacy Policy, please contact:
-* **Email:** support@shortsaway.app (or your developer support email)
+* **Email:** labs@jaidroid.com
 * **Website:** https://github.com/shortsaway (or your developer website)
